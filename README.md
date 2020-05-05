@@ -5,7 +5,7 @@ This is the fourth project of the Data Science Nanodegree program. In the Jupyte
 
 1. Installations: There is no installation required. You just need Jupyter-Notebook, e.g. from an Anaconda installation. Make sure that you also have Numpy, Pandas, Matplotlib, and scikit-learn and that the two used datasets (described below) are in the same folder as the CapstoneProject.ipynb file.
 
-2. Project Motivation: Goal was to find out how the growth over the time after start of the outbreak in the different countries can be visualized and whether ratios can be found to compare the intensities of the outbreaks. Furthermore, the goal was to check whether there are specific driving forces for the exponential growths and effective measures against the disease that allow to make predictions on the further development.
+2. Project Motivation: Goal was to find out how the growth over the time after start of the COVID-19 outbreaks in the different countries can be visualized and whether ratios can be found to compare the intensities of the outbreaks. Furthermore, the goal was to check whether there are specific driving forces for the exponential growths and effective measures against the disease that allow to make predictions on the further development.
 
 3. File Description:
    * CapstoneProject.ipynb: Jupyter-Notebook which contains the complete analysis
